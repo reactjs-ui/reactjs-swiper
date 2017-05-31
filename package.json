@@ -1,5 +1,5 @@
 {
-  "name": "react-swiper",
+  "name": "reactjs-swiper",
   "version": "0.1.0",
   "author": {
     "name": "Linder Wang",
@@ -82,11 +82,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactjs-ui/react-swiper.git"
+    "url": "git+https://github.com/reactjs-ui/reactjs-swiper.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactjs-ui/react-swiper/issues"
+    "url": "https://github.com/reactjs-ui/reactjs-swiper/issues"
   },
-  "homepage": "https://github.com/reactjs-ui/react-swiper#readme"
+  "homepage": "https://github.com/reactjs-ui/reactjs-swiper#readme"
 }

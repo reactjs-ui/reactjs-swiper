@@ -5,7 +5,7 @@ This is a react component based on Swiper.
 ## Install
 
 ```
-npm install react-swiper --save
+npm install reactjs-swiper --save
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install react-swiper --save
 ```javascript
 import React, {Component} from 'react';
 import {render} from 'react-dom';
-import ReactSwiper from 'react-swiper';
+import ReactSwiper from 'reactjs-swiper';
 import './sass/example.scss'; // 自定义 css
 
 const ReactSwiperExample = () => {
@@ -71,7 +71,7 @@ http://localhost:9090
 
 ## Online Example
 
-http://reactjs-ui.github.io/react-swiper/
+http://reactjs-ui.github.io/reactjs-swiper/
 
 ## Build Example
 第一次需要先执行前两步操作，再执行第三步。以后修改例子后，只需要执行第三步即可
@@ -117,7 +117,7 @@ npm run build:publish
 
 ## Issue
 
-https://github.com/reactjs-ui/react-swiper/issues
+https://github.com/reactjs-ui/reactjs-swiper/issues
 
 ## Change Log
 
